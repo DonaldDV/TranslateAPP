@@ -47,7 +47,7 @@ function App() {
     return (
         <div className="App">
             <div className="HeaderContainer">
-                <h1 className="Header">Speech Assist</h1>
+                <h1 className="Header">BABEL 24</h1>
             </div>
             <div className="SelectorContainer">
                 <select className="Selector" value={selectedLanguage} onChange={handleDropdownChange}>
